@@ -1,0 +1,14 @@
+
+---------------------------
+Below you will find:
+    - Your default message
+    - Some trending headlines
+
+Your habits for the day:
+    * 5 glasses of weather
+    * 20 minutes of exercise
+    * Read 10 pages of any book
+    * Check your todo list
+
+You can do this! Make sure you do not regret today tomorrow
+----------------------------
