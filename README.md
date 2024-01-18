@@ -1,0 +1,2 @@
+A simple python project showcasing the use of SMTP login an sending emails, web scraping bbc to find top headlines, the point of this project was to show automation of emails in python, send yourself an email which can include reminders or just something to help improve your workflow
+<img width="1710" alt="Screenshot 2024-01-18 at 18 26 52" src="https://github.com/poshie0456/emailAutoMation/assets/87022737/ac987946-c459-4ab2-a102-eb71bc5cab72">
